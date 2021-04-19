@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📊 Github Stats
+[![ask-to-answer's github stats](https://github-readme-stats.vercel.app/api?username=ask-to-answer&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏅 Solved.ac Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cnhs2205)](https://solved.ac/cnhs2205)
